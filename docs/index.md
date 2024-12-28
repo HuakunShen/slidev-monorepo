@@ -18,5 +18,5 @@ features:
     details: Auto build all slides at once
 ---
 
-- <a href="./tutorial1" target="_blank">Tutorial 1</a>
-- <a href="./tutorial2" target="_blank">Tutorial 2</a>
+- <a href="./slides/tutorial1" target="_blank">Tutorial 1</a>
+- <a href="./slides/tutorial2" target="_blank">Tutorial 2</a>
