@@ -4,12 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Slidev Monorepo",
   description: "Slidev Monorepo Template",
+  base: "./",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+    // nav: [
+    //   { text: 'Home', link: '/' },
+    //   { text: 'Examples', link: '/markdown-examples' }
+    // ],
 
     sidebar: [
       {
